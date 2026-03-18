@@ -1,4 +1,4 @@
-# Event-Hub: Event & Reservation Management System 🚀
+# Event-Hub: Event & Reservation Management System
 
 This project focuses on the design and implementation of a robust relational database for managing events and bookings.
 
